@@ -15,6 +15,6 @@ In this assignment, you will build and evaluate several machine-learning models 
 
 >Let's do it!
 
-![Analytics overview report](https://images.unsplash.com/photo-1599658880436-c61792e70672?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80 "Let's analyze the risk!")
+![Analytics overview report](https://images.unsplash.com/photo-1599658880436-c61792e70672?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80 "Let's predict the risk!")
 
 *[by Myriam Jessier](https://unsplash.com/license)*
