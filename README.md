@@ -1,4 +1,4 @@
-> # Mahine Learning - Classification
+> # Machine Learning - Classification
 # Unit 11 | Risky Business: predict credit risk 
 
 ## Background
